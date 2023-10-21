@@ -1,6 +1,8 @@
 # Francis Mbroh - Animated Hamburger Menu - CSS HTML NO JS
 
-This is a project I did to Practice my CSS skills.
+Hi I'm Francis Mbroh. I'm a web developer who is avid to seeking solutions to everyday problems.
+I wanted to create a hamburger with animation and I just did it. I believe being able to solve problems pivot on taking actions.
+Feel comfy traversing my repositories😊.
 
 ## Table of contents
 

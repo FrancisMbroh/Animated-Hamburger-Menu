@@ -20,7 +20,7 @@
 /* puts the url behind the showcase */
 .showcase::before {
   content: "";
-  background: url(../beach-fav\ 2.JPG) no-repeat center center/cover;
+  background: url(https://github.com/FrancisMbroh/Animated-Hamburger-Menu/blob/main/images/beach-fav%202.JPG) no-repeat center center/cover;
   position: absolute;
   top: 0;
   left: 0;
